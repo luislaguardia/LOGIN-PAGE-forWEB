@@ -51,9 +51,9 @@ p {
 
 input[type="email"]::placeholder,
 input[type="password"]::placeholder {
-    color: #888; /* Change this to adjust the placeholder color */
+    color: #888;
     font-size: 14px;
-    padding-left: 4px; /* Adjust padding if needed */
+    padding-left: 6px;
 }
 
 
